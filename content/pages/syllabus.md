@@ -19,43 +19,393 @@ For each essay assignment, a handout will be distributed detailing requirements 
 Course Calendar
 ---------------
 
-| DAY # | Topics | Key Dates |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week 1**{{< /td-colspan >}} |||
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**Week 2**{{< /td-colspan >}} |||
-| 2 | Readings by Thomas Gray, Thomas Warton, and Charles Lloyd | &nbsp; |
-| 3 | Readings by Anna Seward and Charlotte Smith | &nbsp; |
-| {{< td-colspan 3 >}}**Week 3**{{< /td-colspan >}} |||
-| 4 | Readings by Wordsworth | &nbsp; |
-| 5 | Readings by Wordsworth (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**Week 4**{{< /td-colspan >}} |||
-| 6 | Readings by Wordsworth (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**Week 5**{{< /td-colspan >}} |||
-| 7 | Readings by Coleridge | &nbsp; |
-| 8 | Readings by Wordsworth, Coleridge, and John Thelwall | &nbsp; |
-| {{< td-colspan 3 >}}**Week 6**{{< /td-colspan >}} |||
-| 9 | Readings by Coleridge (cont.) | Essay 1 due (5-7 pages) |
-| 10 | Readings by Keats | &nbsp; |
-| {{< td-colspan 3 >}}**Week 7**{{< /td-colspan >}} |||
-| 11 | Readings by Keats (cont.) | &nbsp; |
-| 12 | Readings by Keats (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**Week 8**{{< /td-colspan >}} |||
-| 13 | Readings by Keats and William Hazlitt | &nbsp; |
-| 14 | Readings by Percy Bysshe Shelley | &nbsp; |
-| {{< td-colspan 3 >}}**Week 9**{{< /td-colspan >}} |||
-| 15 | Readings by Percy Bysshe Shelley (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**Week 10**{{< /td-colspan >}} |||
-| 16 | Readings by Percy Bysshe Shelley (cont.) | &nbsp; |
-| 17 | Readings by Percy Bysshe Shelley and Byron | &nbsp; |
-| {{< td-colspan 3 >}}**Week 11**{{< /td-colspan >}} |||
-| 18 | Readings by Mary Shelley | &nbsp; |
-| {{< td-colspan 3 >}}**Week 12**{{< /td-colspan >}} |||
-| 19 | Readings by Mary Shelley (cont.) | &nbsp; |
-| 20 | Readings by Byron | &nbsp; |
-| {{< td-colspan 3 >}}**Week 13**{{< /td-colspan >}} |||
-| 21 | Readings by Byron (cont.) | &nbsp; |
-| 22 | Readings by Byron (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**Week 14**{{< /td-colspan >}} |||
-| 23 | Readings by Byron (cont.) | &nbsp; |
-| 24 | Readings by Byron (cont.) | Essay 2 due (8-10 pages)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Thomas Gray, Thomas Warton, and Charles Lloyd
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Anna Seward and Charlotte Smith
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Wordsworth
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Wordsworth (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Wordsworth (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Coleridge
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Wordsworth, Coleridge, and John Thelwall
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Coleridge (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due (5-7 pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Keats
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 7**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Keats (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Keats (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 8**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Keats and William Hazlitt
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Percy Bysshe Shelley
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 9**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Percy Bysshe Shelley (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 10**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Percy Bysshe Shelley (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Percy Bysshe Shelley and Byron
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Mary Shelley
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Mary Shelley (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Byron
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 13**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Byron (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Byron (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 14**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Byron (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Readings by Byron (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due (8-10 pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
